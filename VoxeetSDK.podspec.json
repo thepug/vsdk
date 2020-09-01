@@ -13,7 +13,8 @@
     "git": "https://github.com/voxeet/voxeet-uxkit-reactnative.git"
   },
   "vendored_frameworks": [
-    "VoxeetSDK.framework"
+    "VoxeetSDK.framework",
+    "WebRTC.framework"
   ],
   "swift_version": "5.2.4"
 }
