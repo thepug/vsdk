@@ -10,7 +10,7 @@
   },
   "swift_versions": "5.2.4",
   "source": {
-    "git": "https://github.com/voxeet/voxeet-uxkit-reactnative.git"
+    "git": "https://github.com/marymhart/vsdk.git"
   },
   "vendored_frameworks": [
     "VoxeetSDK.framework",
