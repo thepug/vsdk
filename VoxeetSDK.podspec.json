@@ -14,7 +14,7 @@
   },
   "vendored_frameworks": [
     "VoxeetSDK.framework",
-    "WebRTC.framework"
+    "VWebRTC.framework"
   ],
   "swift_version": "5.2.4"
 }
